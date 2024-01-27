@@ -6,7 +6,7 @@ Link to paper: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.062608
 
 preprint: https://arxiv.org/abs/2004.06885
 
-Notebooks by: Óscar Amaro
+Notebooks by: [Óscar Amaro](https://github.com/OsAmaro)
 
 In these notebooks we run direct Hamiltonian simulation on IBMQ machines and (ideal) variational quantum simulation VQS on the PennyLane API.
 
